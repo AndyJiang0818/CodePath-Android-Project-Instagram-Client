@@ -2,7 +2,7 @@
 
 **Instagram Client** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **11** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
 - [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. 
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -43,6 +43,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/INdh4ek.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 <img src='https://i.imgur.com/z2flYL2.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/ZgpSk4N.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
